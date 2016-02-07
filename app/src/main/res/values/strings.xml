@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anotador Subasta</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="titleYou">You</string>
+    <string name="titleWe">We</string>
+    <string name="titleAuction">Auction</string>
+</resources>
