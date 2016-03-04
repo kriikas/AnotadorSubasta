@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">Anotador Subasta</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Ajustes</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="titleYou">You</string>
-    <string name="titleWe">We</string>
-    <string name="titleAuction">Auction</string>
+    <string name="titleVos">Vos</string>
+    <string name="titleNos">Nos</string>
+    <string name="titlePuxa">Puxa</string>
+    <string name="oros">Oros</string>
+    <string name="copas">Copas</string>
+    <string name="espadas">Espadas</string>
+    <string name="bastos">Bastos</string>
+    <string name="signo_suma">+</string>
 </resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="players">
+        <item>@string/titleNos</item>
+        <item>@string/titleVos</item>
+    </string-array>
+    <string-array name="palos">
+        <item>@string/oros</item>
+        <item>@string/copas</item>
+        <item>@string/espadas</item>
+        <item>@string/bastos</item>
+    </string-array>
+</resources>

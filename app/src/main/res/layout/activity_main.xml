@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    tools:context="com.otero.david.anotadorsubasta.MainActivity">
+    tools:context=".activities.MainActivity">
 
             <LinearLayout
                 android:baselineAligned="false"
@@ -26,7 +26,7 @@
                         android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/titleWe"
+                        android:text="@string/titleNos"
                         android:gravity="center"/>
 
                     <ListView
@@ -47,7 +47,7 @@
                         android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/titleAuction"
+                        android:text="@string/titlePuxa"
                         android:gravity="center"
                         android:id="@+id/titlePuxa"/>
 
@@ -83,7 +83,7 @@
                         android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/titleYou"
+                        android:text="@string/titleVos"
                         android:gravity="center"
                         android:id="@+id/titleVos"/>
 
@@ -104,6 +104,6 @@
                 android:layout_marginBottom="@dimen/fab_margin"
                 android:layout_marginRight="@dimen/fab_margin"
                 android:layout_marginEnd="@dimen/fab_margin"
-                android:src="@drawable/ic_action_uno_mas"/>
+                android:src="@drawable/ic_action_uno_mas" />
 
 </FrameLayout>
